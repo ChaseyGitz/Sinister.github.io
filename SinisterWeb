@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sinister | Top-Tier</title>
+        
+        <style>
+            
+            .plansview {
+                width: 300px;
+                height: 45px;
+                border-radius: 10px;
+                background-color: red;
+                color: white;
+                font-family: Verdana;
+                font-size: 24px;
+                text-shadow: 2px 1px black;
+                border: 3px solid white;
+                transition: width 0.2s, height 0.2s, border 0.2s, background-color 0.2s, color 0.2s, font-size 0.2s;
+                position: absolute;
+                top: 40%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                cursor: pointer;
+            }
+            
+            .plansview:hover {
+                width: 240px;
+                background-color: maroon;
+                font-size: 26px;
+            }
+            
+            .plansview:active {
+                width: 220px;
+                background-color: red;
+                font-size: 20px;
+            }
+            
+            .copyloadstring {
+                
+                height: 50px;
+                width: 100%;
+                background-color: rgb(255,255,255, 0.5);
+                border-radius: 300px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                
+                left: 100%;
+                
+                
+            }
+            
+        </style>
+        
+    </head>
+    
+    <body style="background-image: linear-gradient(90deg, maroon, black)">
+        
+        <p>PEE</p>
+        
+        <div>
+            <h1 style="color: white; font-family: Verdana; text-align: center; font-size: 70px; margin: 0px 0px; cursor: default">Sini<span style="color: red">ster</span></h1>
+            
+            
+            
+            <h3 style="text-align: center; color: white; text-shadow: 2px 1px red; margin: 0 0px; cursor: default">vBeta</h3>
+            <br><br>
+            <p style="text-align: center; color: red; font-weight: bold; font-size: 20px; margin: 0 0; cursor: default">Sinister, the newcoming top-tier executor/script.<br> Out for a free 12h key, or a lifetime $4.99 key.<br> Join the discord for lifetime key giveaways.</p>
+            
+            <br>
+            
+            <p style="text-align: center; color: orange; font-size: 12px">Warning: The script has a key that you may unlock for free only, with no paid options. The paid options are only for the executor.</p>
+            
+            
+            
+            <button type="button" class="plansview" style="" onclick="alert('Hey! Sinister is coming soon! Please stay tuned for the release.')">View Plans</button>
+            <br><br><br><br><br><br>
+            <p style="text-align: center; color: white; font-family: Verdana; font-size: 10px; cursor: default">Copy the script below</p>
+            <p style="text-align: center; color: white; font-family: Verdana; font-size: 10px; margin: 0 0; cursor: default">V</p>
+            
+            <Br>
+            
+            
+            <div class="copyloadstring">
+                
+                
+                
+                <h1 style="text-align: center; color: white; text-shadow: 2px 1px red">print ("Coming soon!")</h1>
+                
+            </div>
+            
+        </div>
+        
+    </body>
+    
+</html>
